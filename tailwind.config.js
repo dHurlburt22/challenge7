@@ -1,6 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ["./files/*.html"],
+  content: [".challenge7/files/*.html"],
   theme: {
     extend: {},
   },
